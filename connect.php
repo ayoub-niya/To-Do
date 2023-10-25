@@ -3,7 +3,7 @@
     $host = 'localhost';
     $dbname = 'todo';
     $username = 'root';
-    $password = '93909311';
+    $password = '';
 
     try {
         
