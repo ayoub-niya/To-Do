@@ -1,0 +1,40 @@
+body {
+    background-color: #eee;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+.container {
+    width: 500px;
+    margin: 100px auto;
+    color: #fff;
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.container table, form {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+
+.container input {
+    background-color: #fff;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+}
+
+.container input:focus {
+    outline: none;
+}
